@@ -1,0 +1,38 @@
+name: Newsletter des résultats en hausse
+on:
+  schedule:
+    - cron: "*/15 10-23 * * 1-5"   # heures UTC : couvre l'ouverture d'EDGAR (hiver et été), jours de semaine
+    - cron: "*/15 0-3 * * 2-6"
+  workflow_dispatch:
+    inputs:
+      test:
+        description: "Envoyer seulement une notification de test"
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: newsletter
+  cancel-in-progress: false
+jobs:
+  passe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Chercher les nouveaux résultats
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          NTFY_URL: ${{ secrets.NTFY_URL }}
+          MIN_GROWTH_PCT: ${{ vars.MIN_GROWTH_PCT }}
+        run: python -m earnings_radar newsletter ${{ inputs.test && '--test' || '' }}
+      - name: Enregistrer l'état (pour ne jamais prévenir deux fois)
+        run: |
+          git config user.name "newsletter-bot"
+          git config user.email "newsletter-bot@users.noreply.github.com"
+          if [ -f newsletter_state.json ]; then git add newsletter_state.json; fi
+          if [ -f journal.md ]; then git add journal.md; fi
+          git diff --cached --quiet || (git commit -m "mise à jour" && git push)
