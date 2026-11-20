@@ -1,0 +1,1 @@
+- 2026-11-20 13:49 (Paris) — **IES Holdings, Inc. (IESC)** : Le chiffre d’affaires est en très forte hausse (+55 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/1048268/000104826826000176/q42026pressrelease-septemb.htm)
