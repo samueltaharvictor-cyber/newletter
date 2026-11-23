@@ -1,2 +1,4 @@
 - 2026-11-20 13:49 (Paris) — **IES Holdings, Inc. (IESC)** : Le chiffre d’affaires est en très forte hausse (+55 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/1048268/000104826826000176/q42026pressrelease-septemb.htm)
 - 2026-11-20 23:12 (Paris) — **TruGolf Holdings, Inc. (TRUG)** : Le chiffre d’affaires est en hausse (+29 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/1857086/000149315226053548/ex99-1.htm)
+- 2026-11-23 13:05 (Paris) — **SOAR AI, Inc. (SOAR)** : Le chiffre d’affaires a triplé (+245 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/ex99-1.htm)
+- 2026-11-23 13:30 (Paris) — **GlobalTech Corp (GLTK)** : Le chiffre d’affaires est en très forte hausse (+86 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/1938338/000147793226007221/global_ex991.htm)
