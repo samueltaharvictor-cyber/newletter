@@ -2,3 +2,7 @@
 - 2026-11-20 23:12 (Paris) — **TruGolf Holdings, Inc. (TRUG)** : Le chiffre d’affaires est en hausse (+29 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/1857086/000149315226053548/ex99-1.htm)
 - 2026-11-23 13:05 (Paris) — **SOAR AI, Inc. (SOAR)** : Le chiffre d’affaires a triplé (+245 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/ex99-1.htm)
 - 2026-11-23 13:30 (Paris) — **GlobalTech Corp (GLTK)** : Le chiffre d’affaires est en très forte hausse (+86 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/1938338/000147793226007221/global_ex991.htm)
+- 2026-11-23 22:02 (Paris) — **Symbotic Inc. (SYM)** : Le chiffre d’affaires est en hausse (+26 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/1837240/000183724026000047/q4268-k_ex991.htm)
+- 2026-11-23 22:10 (Paris) — **JACOBS SOLUTIONS INC. (J)** : Le chiffre d’affaires est en hausse (+49 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/52988/000162828026075492/jfy2026q4earningsrelease.htm)
+- 2026-11-23 22:12 (Paris) — **Hewlett Packard Enterprise Co (HPE)** : Le chiffre d’affaires est en très forte hausse (+50 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/1645590/000164559026000097/ex-991x11232026x8k.htm)
+- 2026-11-23 22:39 (Paris) — **Exyn Technologies, Inc. (EXYN)** : Le chiffre d’affaires a quadruplé — [communiqué](https://www.sec.gov/Archives/edgar/data/1960355/000110465926131109/tm2630488d1_ex99-1.htm)
