@@ -8,3 +8,4 @@
 - 2026-11-23 22:39 (Paris) — **Exyn Technologies, Inc. (EXYN)** : Le chiffre d’affaires a quadruplé — [communiqué](https://www.sec.gov/Archives/edgar/data/1960355/000110465926131109/tm2630488d1_ex99-1.htm)
 - 2026-11-24 13:03 (Paris) — **ANALOG DEVICES INC (ADI)** : Le chiffre d’affaires est en hausse (+38 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/6281/000000628126000087/adiq426exhibit991.htm)
 - 2026-11-24 13:03 (Paris) — **DYCOM INDUSTRIES INC (DY)** : Le chiffre d’affaires est en hausse (+42 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/67215/000006721526000048/dyfy2027q3earningsreleasee.htm)
+- 2026-11-24 22:09 (Paris) — **Dell Technologies Inc. (DELL)** : Le chiffre d’affaires a doublé (+103 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/exhibit991earnings8kq3fy27.htm)
