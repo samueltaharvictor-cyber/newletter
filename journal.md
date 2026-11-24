@@ -6,3 +6,5 @@
 - 2026-11-23 22:10 (Paris) — **JACOBS SOLUTIONS INC. (J)** : Le chiffre d’affaires est en hausse (+49 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/52988/000162828026075492/jfy2026q4earningsrelease.htm)
 - 2026-11-23 22:12 (Paris) — **Hewlett Packard Enterprise Co (HPE)** : Le chiffre d’affaires est en très forte hausse (+50 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/1645590/000164559026000097/ex-991x11232026x8k.htm)
 - 2026-11-23 22:39 (Paris) — **Exyn Technologies, Inc. (EXYN)** : Le chiffre d’affaires a quadruplé — [communiqué](https://www.sec.gov/Archives/edgar/data/1960355/000110465926131109/tm2630488d1_ex99-1.htm)
+- 2026-11-24 13:03 (Paris) — **ANALOG DEVICES INC (ADI)** : Le chiffre d’affaires est en hausse (+38 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/6281/000000628126000087/adiq426exhibit991.htm)
+- 2026-11-24 13:03 (Paris) — **DYCOM INDUSTRIES INC (DY)** : Le chiffre d’affaires est en hausse (+42 %) — [communiqué](https://www.sec.gov/Archives/edgar/data/67215/000006721526000048/dyfy2027q3earningsreleasee.htm)
